@@ -1,6 +1,6 @@
-Create database final_lab;
+Create database CarRentalSystem;
 
-Use final_lab;
+Use CarRentalSystem;
 
 create table car(
     plate_id int not null,
